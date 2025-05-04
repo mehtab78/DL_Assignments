@@ -1,0 +1,7 @@
+path: /home/mehtab/Downloads/chest_xray/dataset   # Dataset root path
+train: train  # Training images folder
+val: val  # Validation images folder
+test: test  # Test images folder
+
+nc: 2  # Number of classes
+names: ['NORMAL', 'PNEUMONIA']  # Class names
