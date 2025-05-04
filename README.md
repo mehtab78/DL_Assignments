@@ -11,7 +11,16 @@ This project implements a binary classification system for distinguishing betwee
 ## Dataset Structure
 
 The dataset is organized as follows:
-dataset/ ├── train/ │ ├── NORMAL/ │ └── PNEUMONIA/ ├── val/ │ ├── NORMAL/ │ └── PNEUMONIA/ └── test/ ├── NORMAL/ └── PNEUMONIA/
+dataset/ 
+├── train/ 
+│        ├── NORMAL/ 
+│        └── PNEUMONIA/ 
+├── val/ 
+│       ├── NORMAL/ 
+│       └── PNEUMONIA/ 
+└── test/ 
+        ├── NORMAL/ 
+        └── PNEUMONIA/
 
 
 ## Models Evaluated
@@ -117,5 +126,5 @@ Ultralytics YOLOv8: https://github.com/ultralytics/ultralytics
 Chest X-ray dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## License
-This project is available under the MIT License. EOF
+This project is available under the MIT License.
 
